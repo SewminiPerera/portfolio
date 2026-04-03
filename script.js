@@ -65,8 +65,9 @@ new Typed('.typed-text', {
   strings: [
     'ICT Undergraduate',
     'Web Developer',
-    'Tech Enthusiast',
-    'Media Secretary @ FOT',
+    'UI/UX Designer',
+    'Photographer',
+    'Graphic Designer',
   ],
   typeSpeed: 70,
   backSpeed: 40,
