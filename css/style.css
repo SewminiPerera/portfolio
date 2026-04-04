@@ -630,6 +630,11 @@ section {
   font-size: 1.3rem;
   font-weight: 500;
 }
+.project-tags span.ongoing {
+  background: rgba(255, 193, 7, 0.15);
+  color: #ffc107;
+  border-color: rgba(255, 193, 7, 0.3);
+}
 
 .project-btn {
   align-self: flex-start;
